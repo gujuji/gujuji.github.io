@@ -10,7 +10,7 @@ description: Zao's Ideas & Blogs
 # baseurl: "" # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
-github_username: LiXizhi
+github_username: gujuji
 permalink: /:year/:month/:day/:title/
 # this is the url root of the view source link on the footer page.
 viewsourceroot: https://github.com/LiXizhi/LiXizhi.github.io/blob/master/
@@ -21,8 +21,8 @@ newsourceroot: https://github.com/LiXizhi/LiXizhi.github.io/new/master
 #duoshuo_shortname: lixizhi
 #duoshuo_url: "http://lixizhi.github.io"
 # disqus.com commenting system. please note that it is exclusive with duoshuo.com
-disqus_shortname: lixizhi
-disqus_url: "http://lixizhi.github.io"
+disqus_shortname: gujuji
+disqus_url: "http://gujuji.github.io"
 #########################################
 
 # Build settings
