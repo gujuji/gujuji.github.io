@@ -2,7 +2,7 @@
 layout: frontpage
 ---
 
-## Welcome to my website
+## 欢迎来到郑永早的个人博客。
 
-This is the place where I share my ideas on topics like [Paracraft](http://www.paracraft.cn) software design, artificial intelligence and education. 
-Feel free to send me emails or join our team. 
+这是我分享关于个人软件设计我的思想的地方，有待完善。
+谢谢. 
